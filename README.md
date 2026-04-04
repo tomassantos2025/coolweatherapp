@@ -1,6 +1,6 @@
 # Assignment: CoolWeatherApp
-Course : [Course Name]
-Student (s): [Student Name]
+Course : Mobile Computing
+Student (s): Tomás Santos
 Date : 2026-04-04
 Repository URL : https://github.com/tomassantos2025/coolweatherapp
 ---
