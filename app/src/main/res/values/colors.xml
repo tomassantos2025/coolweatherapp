@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Cores principais (Material) -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <!-- Cores básicas -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Background da app -->
+    <color name="viewBG">#F5F5F5</color>
+
+    <!-- Texto (labels do weather) -->
+    <color name="WeatherLabel">#212121</color>
+
+</resources>
